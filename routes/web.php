@@ -3,6 +3,7 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\HomeController;
 use App\Http\Controllers\UserController;
+use App\Http\Controllers\CategoryController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -17,3 +18,10 @@ use App\Http\Controllers\UserController;
 Route::get('/home', [HomeController::class, 'home']);
 
 Route::get('/user/{id}/name/{name}',[UserController::class, 'profile']);
+
+Route::prefix('category')->group(function () { 
+    Route::get('/food_beverage', [CategoryController::class, 'food_beverage']); 
+    Route::get('/beauty_health', [CategoryController::class, 'beauty_health']); 
+    Route::get('/home_care', [CategoryController::class, 'home_care']); 
+    Route::get('/baby_kid', [CategoryController::class, 'baby_kid']); 
+}); 
