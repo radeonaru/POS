@@ -4,6 +4,7 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\HomeController;
 use App\Http\Controllers\UserController;
 use App\Http\Controllers\CategoryController;
+use App\Http\Controllers\SalesController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -25,3 +26,5 @@ Route::prefix('category')->group(function () {
     Route::get('/home_care', [CategoryController::class, 'home_care']); 
     Route::get('/baby_kid', [CategoryController::class, 'baby_kid']); 
 }); 
+
+Route::get('/sales', [SalesController::class, 'sales']);

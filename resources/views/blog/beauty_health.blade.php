@@ -17,7 +17,7 @@
         </style>
         </head>
         <body>
-    <h2>Product Sales for Beauty Health:</h2>
+    <h2>Category Product for Beauty Health:</h2>
 <table>
     <tr>
         <th>Product Name</th>

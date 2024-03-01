@@ -17,7 +17,7 @@
         </style>
     </head>
     <body>
-        <h2>Product Sales for Food Beverages:</h2>
+        <h2>Category Product for Food Beverages:</h2>
 <table>
     <tr>
         <th>Product Name</th>

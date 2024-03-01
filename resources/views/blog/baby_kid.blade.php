@@ -18,7 +18,7 @@
 </head>
 <body>
 
-<h2>Product Sales for Baby Products:</h2>
+<h2>Category Product for Baby Products:</h2>
 <table>
     <tr>
         <th>Product Name</th>

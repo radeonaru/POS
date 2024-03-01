@@ -56,6 +56,12 @@
         <td>80,000</td>
         <td>1,600,000</td>
     </tr>
+    <tr>
+        <td>Total</td>
+        <td>-</td>
+        <td>-</td>
+        <td>9,650,000</td>
+    </tr>
 </table>
 
 <h2>Product Sales for Beauty Health:</h2>
@@ -95,6 +101,12 @@
         <td>50</td>
         <td>50,000</td>
         <td>2,500,000</td>
+    </tr>
+    <tr>
+        <td>Total</td>
+        <td>-</td>
+        <td>-</td>
+        <td>38,100,000</td>
     </tr>
 </table>
 
@@ -136,6 +148,12 @@
         <td>60,000</td>
         <td>2,400,000</td>
     </tr>
+    <tr>
+        <td>Total</td>
+        <td>-</td>
+        <td>-</td>
+        <td>28,400,000</td>
+    </tr>
 </table>
 
 <h2>Product Sales for Food Beverages:</h2>
@@ -175,6 +193,12 @@
         <td>70</td>
         <td>12,000</td>
         <td>840,000</td>
+    </tr>
+    <tr>
+        <td>Total</td>
+        <td>-</td>
+        <td>-</td>
+        <td>5,090,000</td>
     </tr>
 </table>
 
